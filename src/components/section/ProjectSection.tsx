@@ -60,8 +60,9 @@ const projects = [
         { name: "Python", color: "bg-sky-500" },
         { name: "Flask", color: "bg-grey-500" },
         { name: "os", color: "bg-red-500" },
-      ]
-
+      ],
+      github: "https://github.com/Sweep76/IO-Management",
+      live: "#",
   },
 ];
 
