@@ -15,13 +15,11 @@ import {
   git,
   html,
   javascript,
-  mongodb,
   mysql,
   nextjs,
   nodejs,
   python,
   reactjs,
-  redux,
   tailwind,
   typescript,
 } from "@/assets";
@@ -38,6 +36,10 @@ const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
   },
   {
     name: "Python",

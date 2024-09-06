@@ -11,8 +11,8 @@ const HeroSection = () => {
         Data Science Enthusiast
       </h1>
       <p className="sm:w-[550px] text-base sm:text-lg leading-relaxed">
-        I specialize in python based projects (Machine-Learning, Regression Models,
-        and Algorithms) for transforming data into insight. Based in Cebu, Philippines. 📍
+        I specialize in python based projects (Algorithms, Regression Models,
+        and Machine-Learning) for transforming data into insights. Based in Cebu, Philippines. 📍
       </p>
       <Socials className="mt-4" />
       <div className="flex justify-center items-center gap-4 mt-6">
