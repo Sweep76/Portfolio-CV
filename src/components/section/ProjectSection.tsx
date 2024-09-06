@@ -51,6 +51,18 @@ const projects = [
     github: "https://github.com/Sweep76/Taskify-Management-Application",
     live: "#",
   },
+  {
+    image: io,
+    title: "IO Management Program",
+    description:
+      "Program that handles controlling on the flow of data into and out of a data processing complex",
+      tags: [
+        { name: "Python", color: "bg-sky-500" },
+        { name: "Flask", color: "bg-grey-500" },
+        { name: "os", color: "bg-red-500" },
+      ]
+
+  },
 ];
 
 const ProjectSection = () => {
