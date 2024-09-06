@@ -2,6 +2,7 @@ import Image from "next/image";
 
 import { BackgroundGradient } from "../ui/background-gradient";
 import {
+  io,
   visualizer,
   cbn,
   tasky,
