@@ -13,7 +13,7 @@ const ContactSection = () => {
             Let&apos;s chat. <br /> Tell me about your <br /> project.
           </h1>
           <p className="dark:text-muted-foreground text-white text-center lg:text-start ">
-            Let&apos;s create something together🤘
+            Please Let me know what you think.
           </p>
           <Card>
             <CardHeader className="p-4">
