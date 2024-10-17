@@ -6,6 +6,7 @@ import {
   visualizer,
   cbn,
   tasky,
+  pokedex,
 } from "@/assets";
 import { ExternalLink, Github } from "lucide-react";
 import { Button } from "../ui/button";
@@ -37,6 +38,19 @@ const projects = [
     ],
     github: "https://github.com/Sweep76/Data-Analytics-Visualizer",
     live: "https://replit.com/@MariaSylwiaR/sea-level-predictor#main.py",
+  },
+  {
+    image: pokedex, 
+    title: "Pokedex Database",
+    description:
+      "A dynamic web application showcasing Pokémon information",
+    tags: [
+      { name: "React", color: "bg-sky-500" },
+      { name: "framer-motion", color: "bg-purple-600"},
+      { name: "Javascript", color: "bg-yellow-700" },
+    ],
+    github: "https://github.com/Sweep76/pokedex-database",
+    live: "https://pokedex-sweep.netlify.app/",
   },
   {
     image: tasky, 

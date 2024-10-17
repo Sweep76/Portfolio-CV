@@ -28,6 +28,7 @@ export { default as cbn } from "./project/cbn.png";
 export { default as visualizer } from "./project/visualizer.png";
 export { default as tasky } from "./project/tasky.png";
 export { default as io } from "./project/io.png";
+export { default as pokedex } from "./project/pokedex.png";
 
 /* Images */
 export { default as profile } from "./images/me.jpeg";
