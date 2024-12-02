@@ -29,6 +29,9 @@ export { default as visualizer } from "./project/visualizer.png";
 export { default as tasky } from "./project/tasky.png";
 export { default as io } from "./project/io.png";
 export { default as pokedex } from "./project/pokedex.png";
+export { default as pms} from "./project/pms.png";
+export { default as cinema } from "./project/cinema.png";
+export { default as ecom } from "./project/ecom.png";
 
 /* Images */
 export { default as profile } from "./images/me.jpeg";

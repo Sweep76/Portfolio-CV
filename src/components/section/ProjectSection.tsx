@@ -5,8 +5,9 @@ import {
   io,
   visualizer,
   cbn,
-  tasky,
+  pms,
   pokedex,
+  ecom,
 } from "@/assets";
 import { ExternalLink, Github } from "lucide-react";
 import { Button } from "../ui/button";
@@ -53,29 +54,29 @@ const projects = [
     live: "https://pokedex-sweep.netlify.app/",
   },
   {
-    image: tasky, 
-    title: "Taskify Application",
+    image: pms, 
+    title: "Healthcare Management System",
     description:
-      "Task Management App for Employees with searching index function",
+      "A Healthcare Management System Designed for Medical Record Management",
     tags: [
-      { name: "React", color: "bg-sky-500" },
-      { name: "Express", color: "bg-green-600"},
-      { name: "Javascript", color: "bg-yellow-700" },
+      { name: "NextJs", color: "bg-grey-500" },
+      { name: "TailWind", color: "bg-blue-400"},
+      { name: "AppWrite", color: "bg-red-500" },
     ],
-    github: "https://github.com/Sweep76/Taskify-Management-Application",
+    github: "https://github.com/Sweep76/pms",
     live: "#",
   },
   {
-    image: io,
-    title: "IO Management Program",
+    image: ecom,
+    title: "Ecommerce Web",
     description:
-      "Program that handles controlling on the flow of data into and out of a data processing complex",
+      "Modern Complete and Responsive Ecommerce Website.",
       tags: [
-        { name: "Python", color: "bg-sky-500" },
-        { name: "Flask", color: "bg-grey-500" },
-        { name: "os", color: "bg-red-500" },
+        { name: "React", color: "bg-sky-500" },
+        { name: "TailWind", color: "bg-blue-400" },
+        { name: "Javascript", color: "bg-yellow-500" }, 
       ],
-      github: "https://github.com/Sweep76/IO-Management",
+      github: "https://github.com/Sweep76/11_ecommerce-web",
       live: "#",
   },
 ];
